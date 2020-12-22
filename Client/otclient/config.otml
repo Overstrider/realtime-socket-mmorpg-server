@@ -1,0 +1,68 @@
+window-size: 600 480
+window-pos: 660 300
+window-maximized: true
+uuid: yF8Cyti4WLcD6IWaIktgAXwMEi0=
+locale: pt
+fullscreen: false
+showPrivateMessagesOnScreen: true
+displayMana: true
+painterEngine: 0
+showPing: false
+smartWalk: false
+dontStretchShrink: false
+vsync: false
+displayText: true
+blueNpc: false
+displayHealth: true
+showLeftPanel: false
+musicSoundVolume: 100
+classicControl: false
+showFps: false
+foregroundFrameRate: 61
+dashWalk: false
+enableAudio: true
+backgroundFrameRate: 201
+enableMusicSound: false
+showExtraRightPanel: false
+showPrivateMessagesInConsole: true
+displayNames: true
+showLevelsInConsole: true
+showStatusMessagesInConsole: true
+showTimestampsInConsole: true
+showEventMessagesInConsole: true
+autoChaseOverride: true
+showInfoMessagesInConsole: true
+VipList:
+  VipInfo:
+UseIgnoreList: false
+UseWhiteList: false
+IgnorePrivateMessages: false
+IgnoreYelling: false
+host: 127.0.0.1
+port: 7171
+client-version: 772
+motd: 1
+last-used-character: Loldinis
+last-used-world: NptOld
+lastChannelsOpen:
+LastCombatControls:
+  Loldinis:
+    fightMode: 2
+    inventoryMinimize: false
+    chaseMode: 0
+    safeFight: true
+Minimap:
+  flags:
+  zoom: 0
+game_interface:
+  splitterMarginBottom: 100
+game_console:
+  messageHistory:
+IgnorePlayers:
+WhitelistedPlayers:
+ServerList:
+  127.0.0.1:
+    protocol: 772
+    port: 7171
+terminal-window:
+  poped: false

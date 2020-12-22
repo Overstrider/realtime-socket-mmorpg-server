@@ -1,0 +1,14 @@
+Module
+  name: Exclusive Client
+  description:
+  author: Snowsz
+  website: 
+
+  autoload: true
+  autoload-prio﻿rity: 1000
+
+  scripts:
+    - exclusiveclient.lua
+
+  @onLoad: init()
+  @onUnload: terminate()﻿﻿

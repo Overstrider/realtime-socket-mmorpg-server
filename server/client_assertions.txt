@@ -1,0 +1,64 @@
+-----25/12/2018 03:04:46 - Yao Wizard (177.62.165.176Debug Assertion 7.72 Objects.cpp 267
+Tue Dec 25 01:02:46 2018
+Windows Version: 6.1 build 7601 on 2 with Service Pack 1
+Graphic Engine: 2
+Last Packet Types: 120 170 109 170 030 160 160 140 109 170
+Last Packet: 020 012 170 009 000 000 000 007 000 089 097 111 122 101 114 097
+Player Position: [32104,32191,6]
+Player.cpp 383: exception occurred, reason:
+Network.cpp 885: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1280: exception occurred (Type = 120), reason:
+Communication.cpp 2011: exception occurred (Position = 1) (Type = 5112), reason:
+Objects.cpp 270: exception occurred (Type = 5112) (Flag = 5), reason:
+Objects.cpp 267: assertion failed (Type = 5112) (ObjectProperties->high() = 5089), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+
+-----25/12/2018 03:11:00 - Yaozera Return (177.62.165.176Debug Assertion 7.72 Objects.cpp 267
+Tue Dec 25 01:08:40 2018
+Windows Version: 6.1 build 7601 on 2 with Service Pack 1
+Graphic Engine: 2
+Last Packet Types: 120 170 109 170 170 030 170 109 160 160
+Last Packet: 142 012 170 019 000 000 000 010 000 089 097 111 032 087 105 122
+Player Position: [32104,32191,6]
+Player.cpp 383: exception occurred, reason:
+Network.cpp 885: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1280: exception occurred (Type = 120), reason:
+Communication.cpp 2011: exception occurred (Position = 1) (Type = 5112), reason:
+Objects.cpp 270: exception occurred (Type = 5112) (Flag = 5), reason:
+Objects.cpp 267: assertion failed (Type = 5112) (ObjectProperties->high() = 5089), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Comment: 
+-----25/12/2018 03:15:45 - Yaozera Return (177.62.165.176Debug Assertion 7.72 Objects.cpp 267
+Tue Dec 25 01:15:27 2018
+Windows Version: 6.1 build 7601 on 2 with Service Pack 1
+Graphic Engine: 2
+Last Packet Types: 101 109 160 112 108 160 160 140 100 108
+Last Packet: 114 001 109 081 125 182 125 006 001 081 125 181 125 006 101 227
+Player Position: [32081,32181,6]
+Player.cpp 383: exception occurred, reason:
+Network.cpp 885: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1280: exception occurred (Type = 101), reason:
+Communication.cpp 1476: exception occurred, reason:
+Communication.cpp 1437: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 1416: exception occurred (Type = 5091) (OldType = 0), reason:
+Objects.cpp 270: exception occurred (Type = 5091) (Flag = 5), reason:
+Objects.cpp 267: assertion failed (Type = 5091) (ObjectProperties->high() = 5089), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Comment: 
+-----04/01/2019 15:52:06 - The Best Paladin (188.146.162.39Debug Assertion 7.72 Objects.cpp 267
+Fri Jan 04 16:21:31 2019
+Windows Version: 6.2 build 9200 on 2
+Graphic Engine: 2
+Last Packet Types: 103 109 109 109 160 160 140 161 132 131
+Last Packet: 067 001 109 078 125 228 125 008 001 078 125 229 125 008 103 017
+Player Position: [32078,32229,8]
+Player.cpp 383: exception occurred, reason:
+Network.cpp 885: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1280: exception occurred (Type = 103), reason:
+Communication.cpp 1508: exception occurred, reason:
+Communication.cpp 1437: exception occurred (xmin = 0) (ymin = 13), reason:
+Communication.cpp 1416: exception occurred (Type = 5094) (OldType = 0), reason:
+Objects.cpp 270: exception occurred (Type = 5094) (Flag = 5), reason:
+Objects.cpp 267: assertion failed (Type = 5094) (ObjectProperties->high() = 5089), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+

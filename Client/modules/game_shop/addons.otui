@@ -1,0 +1,29 @@
+AddonButton < UIButton
+  width: 73
+  height: 98
+  margin-left: 0
+Panel
+  AddonButton
+    id: box1
+    image-source: /modules/game_shop/images/buttonimg/rainbow
+    anchors.top: parent.top
+    anchors.left: parent.left
+    @onClick: modules.game_shop.buyRainbow()
+  AddonButton
+    id: box2
+    image-source: /modules/game_shop/images/buttonimg/mighty
+    anchors.top: prev.top
+    anchors.left: prev.right
+    @onClick: modules.game_shop.buyMighty()
+  AddonButton
+    id: box3
+    image-source: /modules/game_shop/images/buttonimg/shaman
+    anchors.top: prev.top
+    anchors.left: prev.right
+    @onClick: modules.game_shop.buyShaman()
+  AddonButton
+    id: box4
+    image-source: /modules/game_shop/images/buttonimg/angel
+    anchors.top: prev.top
+    anchors.left: prev.right
+    @onClick: modules.game_shop.buyAngel()

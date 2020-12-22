@@ -1,0 +1,11 @@
+Module
+  name: game_shop
+  description: Create the options window
+  author: edubart, BeniS
+  website: www.otclient.info
+  sandboxed: true
+  autoload: true
+  autoload-priority: 1000
+  scripts: [ shop ]
+  @onLoad: init()
+  @onUnload: terminate()
